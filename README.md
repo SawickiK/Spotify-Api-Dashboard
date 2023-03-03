@@ -1,1 +1,6 @@
 # Spotify-Api-Dashboard
+
+Krzysztof Sawicki, Wojciech Grabias
+
+Aplikacja Searchify  służy do wyszukiwania piosenek w zasobach spotify oraz przygotowywaniu dla nich podsumowania. Wyświetlane jest one  w postaci statystyk oraz zdjęć kojarzonych z danym kawałkiem. W wyszukiwarce możliwa jest zmiana motywu kolorystycznego okienka. W panelu podsumowującym kliknięcie w niebieski link, który reprezentuje rekomendowany utwór, spowoduje przeniesienie do podsumowania klikniętej piosenki. Jednocześnie Searchify umożliwia zapis do pliku wyniku wyszukiwania. Aplikacja pobiera nazwę piosenki od użytkownika, a następnie przeszukuje zasoby spotify, aby odnaleźć jej id, id artysty oraz albumu na podstawie których tworzone jest podsumowanie. Na wypadek gdyby użytkownik nie był zadowolony z rezultatu wyszukiwania w search panelu możliwa jest opcja podania artysty danej piosenki co zwiększy skuteczność wyszukiwarki. Opisana sytuacja może zaistnieć, gdy wyszukujemy polskie piosenki, które nie są tak popularne na scenie międzynarodowej lub mają podobne nazwy do innych utworów. Gui naszej aplikacji zostało wykonane w przy pomocy biblioteki swing. Logo aplikacji przygotowaliśmy samodzielnie na wzór istniejącego loga Spotify.
+
