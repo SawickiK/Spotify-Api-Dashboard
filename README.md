@@ -9,3 +9,7 @@ The Searchify application is used for searching for songs in the Spotify resourc
 ![Search_panel](https://user-images.githubusercontent.com/100801230/222792702-ea0adf06-3caf-49dd-a8e6-91b67bfc81d7.png)
 
 ![Search_panel_darktheme](https://user-images.githubusercontent.com/100801230/222792856-a90b5cd4-c11e-4ea0-a78c-08ea439c44bf.png)
+
+## Summary Panel 
+
+![Result_Panel](https://user-images.githubusercontent.com/100801230/222792943-536be928-5562-4b69-98b4-96771dffccbf.png)
